@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: d673d8770a65cc44fb9b53cf745dccc1
+timeCreated: 1429617462
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Avant-bras_droit
+    100004: Avant-bras_gauche
+    100006: Avant_ambe_droite
+    100008: Avant_jambe_gauche
+    100010: Bone_004
+    100012: Bone_005
+    100014: Bone_006
+    100016: Bone_007
+    100018: Bone_008
+    100020: Bone_012
+    100022: Bone_013
+    100024: Bone_014
+    100026: Bone_015
+    100028: Bone_016
+    100030: Bone_025
+    100032: Bone_026
+    100034: Bras_droit
+    100036: Bras_gauche
+    100038: Cube_001
+    100040: Cube_001_MeshPart0
+    100042: Cube_001_MeshPart1
+    100044: Cube_001_MeshPart2
+    100046: Cube_001_MeshPart3
+    100048: Cube_001_MeshPart4
+    100050: Epaule_droite
+    100052: Epaule_gauche
+    100054: Fesse_droite
+    100056: Fesse_gauche
+    100058: //RootNode
+    100060: Jambe_droite
+    100062: Jambe_geuche
+    100064: Pecs
+    100066: Pied_droite
+    100068: Pied_gauche
+    100070: Tete
+    100072: Ventre
+    400000: Armature
+    400002: Avant-bras_droit
+    400004: Avant-bras_gauche
+    400006: Avant_ambe_droite
+    400008: Avant_jambe_gauche
+    400010: Bone_004
+    400012: Bone_005
+    400014: Bone_006
+    400016: Bone_007
+    400018: Bone_008
+    400020: Bone_012
+    400022: Bone_013
+    400024: Bone_014
+    400026: Bone_015
+    400028: Bone_016
+    400030: Bone_025
+    400032: Bone_026
+    400034: Bras_droit
+    400036: Bras_gauche
+    400038: Cube_001
+    400040: Cube_001_MeshPart0
+    400042: Cube_001_MeshPart1
+    400044: Cube_001_MeshPart2
+    400046: Cube_001_MeshPart3
+    400048: Cube_001_MeshPart4
+    400050: Epaule_droite
+    400052: Epaule_gauche
+    400054: Fesse_droite
+    400056: Fesse_gauche
+    400058: //RootNode
+    400060: Jambe_droite
+    400062: Jambe_geuche
+    400064: Pecs
+    400066: Pied_droite
+    400068: Pied_gauche
+    400070: Tete
+    400072: Ventre
+    4300000: Cube_001_MeshPart0
+    4300002: Cube_001_MeshPart1
+    4300004: Cube_001_MeshPart2
+    4300006: Cube_001_MeshPart3
+    4300008: Cube_001_MeshPart4
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Cube_001_MeshPart0
+    13700002: Cube_001_MeshPart1
+    13700004: Cube_001_MeshPart2
+    13700006: Cube_001_MeshPart3
+    13700008: Cube_001_MeshPart4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
